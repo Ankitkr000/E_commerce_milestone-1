@@ -25,4 +25,18 @@ Database: MongoDB or MySQL to be used for persistent data storage and retrieval.
 Others: 
 Bootstrap/Tailwind CSS: Optional for styling in breakneck speed. 
 Payment Integration Tools: Stripe or PayPal: These are used for processing payments. 
-4. Basic Understanding of Requests
+4. A Layman's Overview Behind an E-commerce Website and How It Is Built
+The Main Features In the Discussion:
+
+User Registration and Login-: Secured User Authentication in Sessions/JWTs.
+Product Listings-: Product Rendering, Dynamic by Pagination. Online
+Searching and Filtering: It Improves the User Experience in Searching for the Products.
+Shopping Cart : Managing quantities for the product, which add to the cart or remove from it.
+Payment Gateway Integration-: Ensuring secure and seamless transaction of money.
+Order Management: Order for User and Admin to track.
+Project Workflow:
+
+Starting with the front endlike creating an interface to the user.
+Backend Development API is for data being manipulated in coherence with logic.
+Frontend and backend integration
+Final Testing and Deployment of the Product.
