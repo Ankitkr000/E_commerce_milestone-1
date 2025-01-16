@@ -1,0 +1,64 @@
+# Node.js modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Build files
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Editor directories and files
+.idea/
+.vscode/
+*.code-workspace
+
+# Coverage reports
+coverage/
+
+# Debug and profiler output
+*.pid
+*.seed
+
+# Dependency directories
+bower_components/
+
+# Static files and public resources (if generated dynamically)
+public/static/
+public/assets/
+
+# Testing
+.jest/
+.cypress/
+.nyc_output/
+
+# PM2 logs and configuration files
+pm2-logs/
+pm2-ecosystem.config.js
+
+# Database-related
+*.db
+*.sqlite
+dump.rdb
+*.sql
