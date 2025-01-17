@@ -40,3 +40,9 @@ Starting with the front endlike creating an interface to the user.
 Backend Development API is for data being manipulated in coherence with logic.
 Frontend and backend integration
 Final Testing and Deployment of the Product.
+
+----------------------------------------------
+In Milestone_3 , these task has been done:- 
+  Configure the server to listen on a designated port. Database Connection
+  Integrate MongoDB for efficient data storage.
+  Confirm the connection between the server and MongoDB.
